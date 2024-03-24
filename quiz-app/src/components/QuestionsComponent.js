@@ -7,7 +7,7 @@ const QuestionsComponent = ({questions,onAnswerClick}) => {
         <ul className='options'>
             {questions.answerOptions.map((option)=>{
                 return (
-                    <li key={option.text}>
+                    <li key={option.text}> 
                         <button onClick={()=>onAnswerClick(option.isCorrect)}></button>
                     </li>
                 )
