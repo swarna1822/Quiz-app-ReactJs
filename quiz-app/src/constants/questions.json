@@ -9,84 +9,84 @@
         ]
     },
     {
-        "question":"Which city is the capital of India ?",
+        "question":"Which city is the capital of Andhra Pradesh ?",
         "answerOptions":[
-            {"text":"Delhi", "isCorrect":true},
+            {"text":"Amaravati", "isCorrect":true},
             {"text":"Bangloore", "isCorrect" : false},
             {"text":"chennai", "isCorrect":false},
             {"text":"Hyderabad", "correct":false}
         ]
     },
     {
-        "question":"Which city is the capital of India ?",
+        "question":"Which city is the capital of Telangana ?",
         "answerOptions":[
-            {"text":"Delhi", "isCorrect":true},
+            {"text":"Delhi", "isCorrect":false},
+            {"text":"Bangloore", "isCorrect" : false},
+            {"text":"chennai", "isCorrect":false},
+            {"text":"Hyderabad", "correct":true}
+        ]
+    },
+    {
+        "question":"Which city is the capital of karnataka ?",
+        "answerOptions":[
+            {"text":"Delhi", "isCorrect":false},
+            {"text":"Bangloore", "isCorrect" : true},
+            {"text":"chennai", "isCorrect":false},
+            {"text":"Hyderabad", "correct":false}
+        ]
+    },
+    {
+        "question":"Which city is the capital of Tamilnadu ?",
+        "answerOptions":[
+            {"text":"Delhi", "isCorrect":false},
+            {"text":"Bangloore", "isCorrect" : false},
+            {"text":"chennai", "isCorrect":true},
+            {"text":"Hyderabad", "correct":false}
+        ]
+    },
+    {
+        "question":"Which city is the capital of Kerala ?",
+        "answerOptions":[
+            {"text":"Trivendrum", "isCorrect":true},
             {"text":"Bangloore", "isCorrect" : false},
             {"text":"chennai", "isCorrect":false},
             {"text":"Hyderabad", "correct":false}
         ]
     },
     {
-        "question":"Which city is the capital of India ?",
+        "question":"Which city is the capital of Maharashtra ?",
         "answerOptions":[
-            {"text":"Delhi", "isCorrect":true},
+            {"text":"Delhi", "isCorrect":false},
+            {"text":"Bangloore", "isCorrect" : false},
+            {"text":"Mumbai", "isCorrect":true},
+            {"text":"Hyderabad", "correct":false}
+        ]
+    },
+    {
+        "question":"Which city is the capital of Gujarat ?",
+        "answerOptions":[
+            {"text":"Gandhi Nagar", "isCorrect":true},
             {"text":"Bangloore", "isCorrect" : false},
             {"text":"chennai", "isCorrect":false},
             {"text":"Hyderabad", "correct":false}
         ]
     },
     {
-        "question":"Which city is the capital of India ?",
+        "question":"Which city is the capital of Goa ?",
         "answerOptions":[
-            {"text":"Delhi", "isCorrect":true},
+            {"text":"Panaji", "isCorrect":true},
             {"text":"Bangloore", "isCorrect" : false},
             {"text":"chennai", "isCorrect":false},
             {"text":"Hyderabad", "correct":false}
         ]
     },
     {
-        "question":"Which city is the capital of India ?",
+        "question":"Which city is the capital of Uttar Pradesh ?",
         "answerOptions":[
-            {"text":"Delhi", "isCorrect":true},
+            {"text":"Delhi", "isCorrect":false},
             {"text":"Bangloore", "isCorrect" : false},
             {"text":"chennai", "isCorrect":false},
-            {"text":"Hyderabad", "correct":false}
-        ]
-    },
-    {
-        "question":"Which city is the capital of India ?",
-        "answerOptions":[
-            {"text":"Delhi", "isCorrect":true},
-            {"text":"Bangloore", "isCorrect" : false},
-            {"text":"chennai", "isCorrect":false},
-            {"text":"Hyderabad", "correct":false}
-        ]
-    },
-    {
-        "question":"Which city is the capital of India ?",
-        "answerOptions":[
-            {"text":"Delhi", "isCorrect":true},
-            {"text":"Bangloore", "isCorrect" : false},
-            {"text":"chennai", "isCorrect":false},
-            {"text":"Hyderabad", "correct":false}
-        ]
-    },
-    {
-        "question":"Which city is the capital of India ?",
-        "answerOptions":[
-            {"text":"Delhi", "isCorrect":true},
-            {"text":"Bangloore", "isCorrect" : false},
-            {"text":"chennai", "isCorrect":false},
-            {"text":"Hyderabad", "correct":false}
-        ]
-    },
-    {
-        "question":"Which city is the capital of India ?",
-        "answerOptions":[
-            {"text":"Delhi", "isCorrect":true},
-            {"text":"Bangloore", "isCorrect" : false},
-            {"text":"chennai", "isCorrect":false},
-            {"text":"Hyderabad", "correct":false}
+            {"text":"Lucknow", "correct":false}
         ]
     }
 ]
